@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "852933183457",
+    "firebase_url": "https://book-shopping-app-cac65-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "book-shopping-app-cac65",
+    "storage_bucket": "book-shopping-app-cac65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852933183457:android:edaa0535c00167f4ae74a0",
+        "android_client_info": {
+          "package_name": "com.example.book_shopping_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852933183457-qro6g1jpg7l8add775nl3g2ilc7aab5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkyIwHfrADvMJJJum22xTIcAeDwrQEOsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852933183457-qro6g1jpg7l8add775nl3g2ilc7aab5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
